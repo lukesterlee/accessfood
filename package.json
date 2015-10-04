@@ -1,0 +1,17 @@
+{
+  "name": "accessfood",
+  "version": "1.0.0",
+  "description": "Access Food is Awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C4Q AC2.1 Take2",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
+    "express": "^4.13.3",
+    "parse": "^1.6.4"
+  }
+}
